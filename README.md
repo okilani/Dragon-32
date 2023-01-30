@@ -4,9 +4,9 @@
 
 ## Macbook air retina display 2018
 
-![image](https://user-images.githubusercontent.com/123292188/214825773-b11e1997-1c3f-47f5-9ad9-becb64fd8775.png)
+![image](Macbookair2018.png)
 
-Mabook 2018 air pic.png 
+Macbookair2018.png 
 
 
 My Mac consists of these specs:
