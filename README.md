@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/123292188/214825773-b11e1997-1c3f-47f5-9ad9-becb64fd8775.png)
 
-
+Mabook 2018 air pic.png 
 
 
 My Mac consists of these specs:
