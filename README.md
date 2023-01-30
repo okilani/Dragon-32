@@ -1,6 +1,6 @@
 ## Dragon 32
 
-![image](https://user-images.githubusercontent.com/123292188/214823600-8866e4c9-e222-4ac0-a1bc-202e7a474703.png)
+![image](dragon32.png)
 
 ## Macbook air retina display 2018
 
