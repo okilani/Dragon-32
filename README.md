@@ -8,6 +8,7 @@
 
 
 
+
 My Mac consists of these specs:
 
 <img width="200" alt="Screen Shot 2023-01-26 at 14 22 21" src="https://user-images.githubusercontent.com/123292188/214823825-1e63403a-2b29-4892-8e8d-6f3d0c222c4d.png">
